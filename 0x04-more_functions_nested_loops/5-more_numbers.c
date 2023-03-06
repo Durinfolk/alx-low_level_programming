@@ -16,13 +16,12 @@ void more_numbers(void)
 				_putchar('1');
 			_putchar (j % 10 + '0');
 		}
-
-		_putchar('\n');	}
-
+		_putchar('\n');
+	}
 }
 
-'5-main.c'
 #include "main.h"
+
 /**
  * main - check the code
  *
